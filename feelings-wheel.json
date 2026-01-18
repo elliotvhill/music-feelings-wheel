@@ -8,5 +8,55 @@
             "secondary5": { "bored": { "tertiary": "inferior" } },
             "secondary6": { "sleepy": { "tertiary": "apathetic" } }
         }
+    ],
+    "mad": [
+        {
+            "secondary1": {"hurt": {}},
+            "secondary2": {"hostile": {}},
+            "secondary3": {"angry": {}},
+            "secondary4": {"enraged": {}},
+            "secondary5": {"hateful": {}},
+            "secondary6": {"critical": {}}
+        }
+    ],
+    "scared": [
+        {
+            "secondary1": {"rejected": {}},
+            "secondary2": {"confused": {}},
+            "secondary3": {"helpless": {}},
+            "secondary4": {"submissive": {}},
+            "secondary5": {"insecure": {}},
+            "secondary6": {"anxious": {}}
+        }
+    ],
+    "joyful": [
+        {
+            "secondary1": {"excited": {}},
+            "secondary2": {"attractive": {}},
+            "secondary3": {"energetic": {}},
+            "secondary4": {"playful": {}},
+            "secondary5": {"creative": {}},
+            "secondary6": {"aware": {}}
+        }
+    ],
+    "powerful": [
+        {
+            "secondary1": {"faithful": {}},
+            "secondary2": {"important": {}},
+            "secondary3": {"hopeful": {}},
+            "secondary4": {"appreciated": {}},
+            "secondary5": {"respected": {}},
+            "secondary6": {"proud": {}}
+        }
+    ],
+    "peaceful": [
+        {
+            "secondary1": {"content": {}},
+            "secondary2": {"thoughtful": {}},
+            "secondary3": {"intimate": {}},
+            "secondary4": {"loving": {}},
+            "secondary5": {"trusting": {}},
+            "secondary6": {"nurturing": {}}
+        }
     ]
 }
