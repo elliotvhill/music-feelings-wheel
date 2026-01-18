@@ -1,0 +1,122 @@
+{
+    "sad": {
+        "guilty": {
+            "tertiary": "bashful"
+        },
+        "ashamed": {
+            "tertiary": "stupid"
+        },
+        "depressed": {
+            "tertiary": "miserable"
+        },
+        "lonely": {
+            "tertiary": "inadequate"
+        },
+        "bored": {
+            "tertiary": "inferior"
+        },
+        "sleepy": {
+            "tertiary": "apathetic"
+        }
+    },
+    "mad": {
+        "secondary": {
+            "tertiary": ""
+        },
+        "secondary": {
+            "tertiary": ""
+        },
+        "secondary": {
+            "tertiary": ""
+        },
+        "secondary": {
+            "tertiary": ""
+        },
+        "secondary": {
+            "tertiary": ""
+        },
+        "secondary": {
+            "tertiary": ""
+        }
+    },
+    "scared": {
+        "secondary": {
+            "tertiary": ""
+        },
+        "secondary": {
+            "tertiary": ""
+        },
+        "secondary": {
+            "tertiary": ""
+        },
+        "secondary": {
+            "tertiary": ""
+        },
+        "secondary": {
+            "tertiary": ""
+        },
+        "secondary": {
+            "tertiary": ""
+        }
+    },
+    "joyful": {
+        "secondary": {
+            "tertiary": ""
+        },
+        "secondary": {
+            "tertiary": ""
+        },
+        "secondary": {
+            "tertiary": ""
+        },
+        "secondary": {
+            "tertiary": ""
+        },
+        "secondary": {
+            "tertiary": ""
+        },
+        "secondary": {
+            "tertiary": ""
+        }
+    },
+    "powerful": {
+        "secondary": {
+            "tertiary": ""
+        },
+        "secondary": {
+            "tertiary": ""
+        },
+        "secondary": {
+            "tertiary": ""
+        },
+        "secondary": {
+            "tertiary": ""
+        },
+        "secondary": {
+            "tertiary": ""
+        },
+        "secondary": {
+            "tertiary": ""
+        }
+    },
+    "peaceful": {
+        "secondary": {
+            "tertiary": ""
+        },
+        "secondary": {
+            "tertiary": ""
+        },
+        "secondary": {
+            "tertiary": ""
+        },
+        "secondary": {
+            "tertiary": ""
+        },
+        "secondary": {
+            "tertiary": ""
+        },
+        "secondary": {
+            "tertiary": ""
+        }
+    }
+}
