@@ -2,7 +2,7 @@
 
 Use the [Feelings Wheel](https://thefeelingswheel.com/) to pair music with feelings for emotional regulation.
 
-### Resourcees and References
+### Resources and References
 
 English and Spanish emotions sample JSON files from [Julia Suarez](https://github.com/julia-suarez-deel)'s [emotion_wheel](https://github.com/julia-suarez-deel/emotion_wheel).
 
