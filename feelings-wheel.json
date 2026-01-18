@@ -11,52 +11,52 @@
     ],
     "mad": [
         {
-            "secondary1": {"hurt": {}},
-            "secondary2": {"hostile": {}},
-            "secondary3": {"angry": {}},
-            "secondary4": {"enraged": {}},
-            "secondary5": {"hateful": {}},
-            "secondary6": {"critical": {}}
+            "secondary1": { "hurt": { "tertiary": "jealous" } },
+            "secondary2": { "hostile": { "tertiary": "selfish" } },
+            "secondary3": { "angry": { "tertiary": "frustrated" } },
+            "secondary4": { "enraged": { "tertiary": "furious" } },
+            "secondary5": { "hateful": { "tertiary": "odious" } },
+            "secondary6": { "critical": { "tertiary": "skeptical" } }
         }
     ],
     "scared": [
         {
-            "secondary1": {"rejected": {}},
-            "secondary2": {"confused": {}},
-            "secondary3": {"helpless": {}},
-            "secondary4": {"submissive": {}},
-            "secondary5": {"insecure": {}},
-            "secondary6": {"anxious": {}}
+            "secondary1": { "rejected": { "tertiary": "bewildered" } },
+            "secondary2": { "confused": { "tertiary": "discouraged" } },
+            "secondary3": { "helpless": { "tertiary": "insignificant" } },
+            "secondary4": { "submissive": { "tertiary": "weak" } },
+            "secondary5": { "insecure": { "tertiary": "foolish" } },
+            "secondary6": { "anxious": { "tertiary": "embarrassed" } }
         }
     ],
     "joyful": [
         {
-            "secondary1": {"excited": {}},
-            "secondary2": {"attractive": {}},
-            "secondary3": {"energetic": {}},
-            "secondary4": {"playful": {}},
-            "secondary5": {"creative": {}},
-            "secondary6": {"aware": {}}
+            "secondary1": { "excited": { "tertiary": "daring" } },
+            "secondary2": { "attractive": { "tertiary": "fascinating" } },
+            "secondary3": { "energetic": { "tertiary": "stimulated" } },
+            "secondary4": { "playful": { "tertiary": "amused" } },
+            "secondary5": { "creative": { "tertiary": "extravagant" } },
+            "secondary6": { "aware": { "tertiary": "delightful" } }
         }
     ],
     "powerful": [
         {
-            "secondary1": {"faithful": {}},
-            "secondary2": {"important": {}},
-            "secondary3": {"hopeful": {}},
-            "secondary4": {"appreciated": {}},
-            "secondary5": {"respected": {}},
-            "secondary6": {"proud": {}}
+            "secondary1": { "faithful": { "tertiary": "confident" } },
+            "secondary2": { "important": { "tertiary": "intelligent" } },
+            "secondary3": { "hopeful": { "tertiary": "worthwhile" } },
+            "secondary4": { "appreciated": { "tertiary": "valuable" } },
+            "secondary5": { "respected": { "tertiary": "satisfied" } },
+            "secondary6": { "proud": { "tertiary": "cheerful" } }
         }
     ],
     "peaceful": [
         {
-            "secondary1": {"content": {}},
-            "secondary2": {"thoughtful": {}},
-            "secondary3": {"intimate": {}},
-            "secondary4": {"loving": {}},
-            "secondary5": {"trusting": {}},
-            "secondary6": {"nurturing": {}}
+            "secondary1": { "content": { "tertiary": "pensive" } },
+            "secondary2": { "thoughtful": { "tertiary": "relaxed" } },
+            "secondary3": { "intimate": { "tertiary": "responsive" } },
+            "secondary4": { "loving": { "tertiary": "serene" } },
+            "secondary5": { "trusting": { "tertiary": "sentimental" } },
+            "secondary6": { "nurturing": { "tertiary": "thankful" } }
         }
     ]
 }
